@@ -4,7 +4,7 @@ Simple Script written in python3 to download Twitch clips from the terminal.
 ## Requirements:
 
 ```
-python3 -m pip install colorama
+python3 -m pip install colorama requests
 ```
 
 ## Usage:
