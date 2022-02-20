@@ -3,12 +3,15 @@ Simple Script written in python3 to download Twitch clips from the terminal.
 
 ## Requirements:
 
->python3 -m pip install colorama
+```
+python3 -m pip install colorama
+```
 
 ## Usage:
 
-> python3 TwitClips.py --file clips_file --resolution 1080 --path /home/c0rnf13ld/vds
-
+```
+python3 TwitClips.py --file clips_file --resolution 1080 --path /home/c0rnf13ld/vds
+```
 
 ## Parameters:
 *   -h, --help            show help message and exit
